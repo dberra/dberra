@@ -5,6 +5,6 @@ $we love
 we love to party
 ```
 
-- [x] Do you love to party?
-- [x] we do
-- [ ] let's
+- [x] learning node
+- [x] loves FHIR
+- [ ] not chill
